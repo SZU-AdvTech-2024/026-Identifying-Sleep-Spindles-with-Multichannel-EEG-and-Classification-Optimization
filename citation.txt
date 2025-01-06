@@ -1,12 +1,8 @@
 @article{REPO026,
     author = "Mei, Ning and Grossberg, Michael D. and Ng, Kenneth and Navarro, Karen T. and Ellmore, Timothy M.",
-    doi = "https://doi.org/10.1016/j.compbiomed.2017.08.030",
-    issn = "0010-4825",
     journal = "Computers in Biology and Medicine",
-    keywords = "Thresholding, Machine learning, Optimization, Sleep spindle, Memory consolidation",
     pages = "441-453",
     title = "{Identifying sleep spindles with multichannel EEG and classification optimization}",
-    url = "https://www.sciencedirect.com/science/article/pii/S0010482517302901",
     volume = "89",
     year = "2017"
 }
